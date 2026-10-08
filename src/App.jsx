@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./App.css";
 
 function App() {
-  const [message, setMessage] = useState("Ready for deployment 🚀");
+  const [message, setMessage] = useState("Ready for deployment letssss  🚀");
 
   const handleTest = () => {
     setMessage("Frontend test triggered successfully!");
